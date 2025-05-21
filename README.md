@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slashbinslashnoname
 - 👀 I’m interested in cryptocurrencies, decentralisation and peer to peer protocols.
-- 💻 Willing to contribute on open source projects but ... you know ... impostor complex...
+- 💻 Willing to contribute on open source projects
 - 🦊 Most of my work has been done on gitlab these years. Don't be afraid by the lack of commits / issues.
 - 🌱 I’m currently learning cairo
 - 💞️ I’m looking to collaborate on bitcoin, starknet
