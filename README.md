@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="slashbin — builder of self-hosted tools and Bitcoin/Lightning software" width="100%" />
+</p>
+
 # Hi, I'm slashbin 👋
 
 I build **tools** — small, focused, self-hostable software, with a soft spot for **Bitcoin & Lightning**.
