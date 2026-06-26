@@ -55,6 +55,7 @@ Mostly solo, AI-native, shipping fast across TypeScript, Go, Rust, Swift and Sol
 - ⏱️ **[slash.benchmark](https://github.com/slashbinslashnoname/slash.benchmark)** — Tiny Node.js helper to measure processing times.
 - 🔑 **[password-handler](https://github.com/slashbinslashnoname/password-handler)** — Shell script to copy a password into your clipboard.
 - 📷 **[organize-icloud-google-photos](https://github.com/slashbinslashnoname/organize-icloud-google-photos)** — Scripts to move Google Photos / iCloud libraries onto an HDD.
+- 🚀 **[dogecoin-docker](https://github.com/slashbinslashnoname/dogecoin-docker)** — CI that polls Dogecoin Core releases daily and auto-builds multi-arch Docker images to GHCR.
 
 ### 📈 Trading & markets
 
