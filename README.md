@@ -29,6 +29,7 @@ Mostly solo, AI-native, shipping fast across TypeScript, Go, Rust, Swift and Sol
 
 ### ⚡ Bitcoin & Lightning
 
+- 🛡️ **[sentinelle](https://github.com/slashbinslashnoname/sentinelle)** — Self-hosted Bitcoin invoicing gateway: time-boxed invoices payable on-chain (watch-only xpub) and over Lightning (phoenixd), with a React admin, realtime WebSocket payment events and accounting export.
 - ⚡ **[slashtip](https://github.com/slashbinslashnoname/slashtip)** — Lightning tipping device on a Raspberry Pi Zero 2 W + Whisplay hat.
 - 🛒 **[p2p-telegram-bitcoin-shop](https://github.com/slashbinslashnoname/p2p-telegram-bitcoin-shop)** — Telegram bot to sell Bitcoin over Lightning via BTCPay Server.
 - 📡 **[go-opreturn](https://github.com/slashbinslashnoname/go-opreturn)** — Build & broadcast Bitcoin transactions with custom OP_RETURN data (mainnet/testnet, SegWit, mempool.space).
